@@ -20,7 +20,11 @@ Self explanatory. The problem statements are not exhaustive. Are there corner ca
 
 ### Block diagram / Flowchart:
 
-Markdown allows some very nice text graphics. Otherwise you can always add an image file to your repo and link to it.
+Markdown allows you to embed an image file from your repo as a link, like this:
+
+![Duck](duck.png)
+
+Alternatively, there are [many](https://asciiflow.com/#/) [tools](https://textik.com/#1c607fbeaad12321) [to create](https://metacpan.org/dist/App-Asciio/view/lib/App/Asciio.pm) ASCII Diagrams and more complicated [graphics with mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/).
 
 ### Measurements and Results:
 
